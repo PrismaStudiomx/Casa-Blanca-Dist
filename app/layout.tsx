@@ -9,7 +9,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://casablancadist.com"),
+  metadataBase: new URL("https://cb-eight-rho.vercel.app"),
 
   title: {
     default: "Casa Blanca Distribuciones | Servicio y confianza",
@@ -43,34 +43,37 @@ category: "business",
 classification: "Distribución y abastecimiento",
 
 alternates: {
-  canonical: "https://casablancadist.com",
+  canonical: "https://cb-eight-rho.vercel.app/",
 },
 
   openGraph: {
-    type: "website",
-    locale: "es_MX",
-    url: "https://casablancadist.com",
-    siteName: "Casa Blanca Distribuciones",
-    title: "Casa Blanca Distribuciones | Servicio y confianza",
-    description:
-      "Distribución y abastecimiento para negocios que buscan productos de calidad, atención cercana y un servicio confiable.",
-    images: [
-      {
-        url: "/og-casa-blanca.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Casa Blanca Distribuciones",
-      },
-    ],
-  },
+  type: "website",
+  locale: "es_MX",
+  url: "https://cb-eight-rho.vercel.app/",
+  siteName: "Casa Blanca Distribuciones",
+  title: "Casa Blanca Distribuciones | Servicio y confianza",
+  description:
+    "Distribución y abastecimiento para negocios que buscan productos de calidad, atención cercana y un servicio confiable.",
+  images: [
+    {
+      url: "https://cb-eight-rho.vercel.app/og-casa-blanca.jpg",
+      width: 1200,
+      height: 630,
+      alt: "Casa Blanca Distribuciones",
+      type: "image/jpeg",
+    },
+  ],
+},
 
   twitter: {
-    card: "summary_large_image",
-    title: "Casa Blanca Distribuciones | Servicio y confianza",
-    description:
-      "Distribución y abastecimiento para negocios en Guadalajara, Jalisco.",
-    images: ["/og-casa-blanca.jpg"],
-  },
+  card: "summary_large_image",
+  title: "Casa Blanca Distribuciones | Servicio y confianza",
+  description:
+    "Distribución y abastecimiento para negocios en Guadalajara, Jalisco.",
+  images: [
+    "https://cb-eight-rho.vercel.app/og-casa-blanca.jpg",
+  ],
+},
 
   robots: {
     index: true,
