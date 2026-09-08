@@ -56,7 +56,7 @@ alternates: {
     "Distribución y abastecimiento para negocios que buscan productos de calidad, atención cercana y un servicio confiable.",
   images: [
     {
-      url: "https://cb-eight-rho.vercel.app/og-casa-blanca.jpg",
+      url: "https://cb-eight-rho.vercel.app/og-casa-blanca-final.jpg",
       width: 1200,
       height: 630,
       alt: "Casa Blanca Distribuciones",

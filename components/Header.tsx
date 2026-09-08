@@ -104,7 +104,7 @@ export default function Header() {
               className="relative z-[110] flex h-full shrink-0 items-center"
             >
               <Image
-  src="/logo-casa-blanca-recortado.png"
+src="/logo-casa-blanca-final-recortado.png"
   alt="Casa Blanca Distribuciones"
   width={240}
   height={76}
