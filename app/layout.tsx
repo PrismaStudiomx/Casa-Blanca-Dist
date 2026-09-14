@@ -9,7 +9,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://cb-eight-rho.vercel.app"),
+  metadataBase: new URL("https://casablancadistribuciones.com"),
 
   title: {
     default: "Casa Blanca Distribuciones | Servicio y confianza",
@@ -43,20 +43,20 @@ category: "business",
 classification: "Distribución y abastecimiento",
 
 alternates: {
-  canonical: "https://cb-eight-rho.vercel.app/",
+  canonical: "https://casablancadistribuciones.com/",
 },
 
   openGraph: {
   type: "website",
   locale: "es_MX",
-  url: "https://cb-eight-rho.vercel.app/",
+  url: "https://casablancadistribuciones.com/",
   siteName: "Casa Blanca Distribuciones",
   title: "Casa Blanca Distribuciones | Servicio y confianza",
   description:
     "Distribución y abastecimiento para negocios que buscan productos de calidad, atención cercana y un servicio confiable.",
   images: [
     {
-      url: "https://cb-eight-rho.vercel.app/og-casa-blanca-final.jpg",
+      url: "https://casablancadistribuciones.com/og-casa-blanca.jpg",
       width: 1200,
       height: 630,
       alt: "Casa Blanca Distribuciones",
@@ -71,7 +71,7 @@ alternates: {
   description:
     "Distribución y abastecimiento para negocios en Guadalajara, Jalisco.",
   images: [
-    "https://cb-eight-rho.vercel.app/og-casa-blanca.jpg",
+    "https://casablancadistribuciones.com/og-casa-blanca.jpg",
   ],
 },
 

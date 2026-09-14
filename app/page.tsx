@@ -23,7 +23,7 @@ const structuredData = {
     addressRegion: "Jalisco",
     addressCountry: "MX",
   },
-  url: "https://casablancadist.com",
+  url: "https://casablancadistribuciones.com",
 };
 
 export default function Home() {
