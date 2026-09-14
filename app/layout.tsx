@@ -56,7 +56,7 @@ alternates: {
     "Distribución y abastecimiento para negocios que buscan productos de calidad, atención cercana y un servicio confiable.",
   images: [
     {
-      url: "https://casablancadistribuciones.com/og-casa-blanca.jpg",
+      url: "https://casablancadistribuciones.com/og-casa-blanca-final.jpg",
       width: 1200,
       height: 630,
       alt: "Casa Blanca Distribuciones",
@@ -71,7 +71,7 @@ alternates: {
   description:
     "Distribución y abastecimiento para negocios en Guadalajara, Jalisco.",
   images: [
-    "https://casablancadistribuciones.com/og-casa-blanca.jpg",
+    "https://casablancadistribuciones.com/og-casa-blanca-final.jpg",
   ],
 },
 
